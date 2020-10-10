@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1601879596 source:c:\users\janani\onedrive\desktop\new folder\pr1\main.c
+	<stdio.h>
+	<stddef.h>
+
+1601884972 source:c:\users\janani\onedrive\desktop\new folder\pr1\app.c
+	"mld.h"
+	<memory.h>
+	<stdlib.h>
+	<stdio.h>
+
+1601884537 c:\users\janani\onedrive\desktop\new folder\pr1\mld.h
+	<assert.h>
+	<string.h>
+
+1601885552 source:c:\users\janani\onedrive\desktop\new folder\pr1\mld.c
+	<stdio.h>
+	<stdlib.h>
+	"mld.h"
+	"css.h"
+	<assert.h>
+	<memory.h>
+
+1601884720 c:\users\janani\onedrive\desktop\new folder\pr1\css.h
+
